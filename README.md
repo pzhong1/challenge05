@@ -7,7 +7,7 @@ will need ready() method to make sure the code isn't run until broser has finish
 dayjs() method for display current time, localstorege() method to save the data,   
 if-else statement to decide past, present and future, val() method for userto text the information,
 
-You'll need to use the [Day.js](https://day.js.org/en/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Day.js in the browser.
+
 
 ## User Story
 
